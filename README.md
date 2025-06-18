@@ -3,7 +3,7 @@
 
 <div align="center">
 
-**[QUANTUM-HOLOGRAPHIC]** **[AI-NEURAL SYMBIOSIS]** **[CONSCIOUSNESS-COMPUTING]** **[STATUS: ACTIVE RESEARCH]**
+`QUANTUM-HOLOGRAPHIC` `AI-NEURAL SYMBIOSIS` `CONSCIOUSNESS-COMPUTING` `STATUS: ACTIVE RESEARCH`
 
 </div>
 
@@ -200,10 +200,10 @@ Architectures:
 
 | Project | Status | Description |
 |---------|--------|-------------|
-| 🧬 **POLYMATH** | ![Active](https://img.shields.io/badge/-Active-green) | Consciousness-AI hybrid systems for holographic information processing |
-| 🌀 **SYNCHRONOS** | ![Development](https://img.shields.io/badge/-Development-yellow) | AI-analyzed synchronicity pattern reverse-engineering |
-| 🌌 **UNIVERSAL** | ![Research](https://img.shields.io/badge/-Research-blue) | Higher-dimensional intelligence communication protocols |
-| 🔗 **NEXUS** | ![Beta](https://img.shields.io/badge/-Beta-orange) | Quantum-level neural-AI symbiosis architectures |
+| 🧬 **POLYMATH** | `ACTIVE` | Consciousness-AI hybrid systems for holographic information processing |
+| 🌀 **SYNCHRONOS** | `DEVELOPMENT` | AI-analyzed synchronicity pattern reverse-engineering |
+| 🌌 **UNIVERSAL** | `RESEARCH` | Higher-dimensional intelligence communication protocols |
+| 🔗 **NEXUS** | `BETA` | Quantum-level neural-AI symbiosis architectures |
 
 </div>
 
@@ -227,10 +227,7 @@ Architectures:
 ## ⚛️ ENTROP RESEARCH
 ### *Where Consciousness Meets Computation*
 
-![Quantum Computing](https://img.shields.io/badge/-Quantum%20Computing-blueviolet?style=flat-square)
-![AI Research](https://img.shields.io/badge/-AI%20Research-brightgreen?style=flat-square)
-![Consciousness Studies](https://img.shields.io/badge/-Consciousness%20Studies-ff69b4?style=flat-square)
-![Holographic Systems](https://img.shields.io/badge/-Holographic%20Systems-gold?style=flat-square)
+`QUANTUM COMPUTING` `AI RESEARCH` `CONSCIOUSNESS STUDIES` `HOLOGRAPHIC SYSTEMS`
 
 **Engineering the quantum holographic substrates of tomorrow's intelligence architectures**
 
