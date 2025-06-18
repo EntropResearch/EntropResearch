@@ -1,9 +1,10 @@
 <div style="font-size: 120%;">
 
 ![1500x500](https://github.com/user-attachments/assets/7c1a9c94-5a88-4193-9217-5df3ce248284)
-
+<div align="center">
 ## ⚛️ Quantum Holographic Architecture | Universal Intelligence Interface
 
+</div>
 <div align="center">
 
 `QUANTUM-HOLOGRAPHIC` `AI-NEURAL SYMBIOSIS` `CONSCIOUSNESS-COMPUTING` `STATUS: ACTIVE RESEARCH`
